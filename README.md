@@ -10,10 +10,6 @@ Este é um aplicativo simples e experimental de checkout construído com Vue.js.
 
 O aplicativo é construído com Vue.js, Vuex, Vue Router, Bootstrap e usa o Pinia para gerenciamento de estado.
 
-## Demonstração
-
-Você pode encontrar uma demonstração ao vivo do aplicativo aqui: [checkout demo](https://kauadaviamaro.github.io)
-
 
 ## Configuração do Projeto
 
