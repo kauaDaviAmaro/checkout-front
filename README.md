@@ -14,16 +14,6 @@ O aplicativo é construído com Vue.js, Vuex, Vue Router, Bootstrap e usa o Pini
 
 Você pode encontrar uma demonstração ao vivo do aplicativo aqui: [checkout demo](https://kauadaviamaro.github.io)
 
-# Funcionalidades 
-
-* Visualizar catalogo de produtos
-* Adicionar produtos ao carrinho de compras
-* Exibir produtos e quantidade no carrinho de compras
-* Remover produtos do carrinho de compras
-* Exibir detalhes do produto selecionado no carrinho de compras
-* Prosseguir para o checkout e finalizar a compra
-* Exibir mensagem de obrigado após finalizar a compra
-
 
 ## Configuração do Projeto
 
